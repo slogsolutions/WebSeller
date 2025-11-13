@@ -20,7 +20,7 @@ import { motion } from 'framer-motion';
 import LoadingScreen from './LoadingScreen';
 
 // ⭐ rating service + star icon
-import { sellerToBuyerRating } from '../services/sellerToBuyerRating.service';
+import { sellerToBuyerRating } from '../services/sellertobuyerRating.service';
 import { FaStar } from 'react-icons/fa';
 
 type StatusT =
